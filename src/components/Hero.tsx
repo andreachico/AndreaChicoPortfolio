@@ -12,8 +12,7 @@ const Hero = () => {
               Andrea Chico
             </h1>
             <p className="text-text-body text-lg sm:text-xl max-w-2xl leading-relaxed mb-4">
-              I craft fast, polished user interfaces with React, TypeScript, and modern tooling. 
-              Passionate about clean code, great UX, and turning complex ideas into intuitive digital products — from real estate platforms to content-driven apps.
+              I design and develop high-performance, user-friendly interfaces. I thrive on clean code, thoughtful UX, and transforming complex concepts into digital experiences that feel simple and delightful — whether it’s a real estate platform or a content-focused app.
             </p>
             <div className="flex items-center gap-2 text-text-muted text-sm mb-8">
               <MapPin size={14} />

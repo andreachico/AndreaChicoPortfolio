@@ -8,10 +8,10 @@ const Contact = () => {
         <p className="text-text-body text-lg mb-8 max-w-lg mx-auto">
           I'm always open to new opportunities and interesting projects. Feel free to reach out!
         </p>
-        <div className="flex items-center justify-center gap-6">
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
           <a
             href="mailto:andreachico.info@gmail.com"
-            className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-md font-medium hover:opacity-90 transition-opacity duration-200"
+            className="inline-flex w-44 items-center justify-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-md font-medium hover:opacity-90 transition-opacity duration-200"
           >
             <Mail size={18} />
             Send Email
@@ -20,7 +20,7 @@ const Contact = () => {
             href="https://github.com/andreachico"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-medium text-heading hover:bg-muted transition-colors duration-200"
+            className="inline-flex w-44 items-center justify-center gap-2 border border-border px-6 py-3 rounded-md font-medium text-heading hover:bg-muted transition-colors duration-200"
           >
             <Github size={18} />
             GitHub
@@ -29,7 +29,7 @@ const Contact = () => {
             href="https://www.linkedin.com/in/andrea-chico-8220071b4/"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-medium text-heading hover:bg-muted transition-colors duration-200"
+            className="inline-flex w-44 items-center justify-center gap-2 border border-border px-6 py-3 rounded-md font-medium text-heading hover:bg-muted transition-colors duration-200"
           >
             <Linkedin size={18} />
             LinkedIn

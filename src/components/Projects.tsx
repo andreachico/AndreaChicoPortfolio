@@ -13,14 +13,14 @@ const projects: Project[] = [
     name: "CasaFind PH",
     description:
       "A smarter way to find and list homes in the Philippines. Real estate platform built with modern frontend stack.",
-    tags: ["TypeScript", "React 18", "Vite", "Tailwind CSS"],
+    tags: ["TypeScript", "React 18", "Vite", "Tailwind CSS", "Python"],
     github: "https://github.com/andreachico/CasaFindPH",
   },
   {
     name: "CasaFind CMS",
     description:
       "Content management system for CasaFind PH, enabling property listing management and administration.",
-    tags: ["TypeScript", "React", "CMS"],
+    tags: ["TypeScript", "React", "Tailwind CSS"],
     github: "https://github.com/andreachico/CasaFindCMS",
   },
   {

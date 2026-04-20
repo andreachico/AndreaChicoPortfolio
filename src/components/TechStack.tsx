@@ -8,7 +8,7 @@ const skillCategories = [
   },
   {
     title: "Backend & Frameworks",
-    skills: ["REST APIs", "GraphQL", "PHP Symfony", "Node.js", "Go"],
+    skills: ["REST APIs", "GraphQL", "PHP Symfony", "Node.js", "Go", "Python"],
   },
   {
     title: "Tools & Platforms",

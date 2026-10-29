@@ -30,6 +30,13 @@ const projects: Project[] = [
     tags: ["TypeScript", "React", "Vite"],
     github: "https://github.com/andreachico/daily-digest-hub",
   },
+  {
+    name: "Expense Tracker",
+    description:
+      "A full-stack personal finance tracker: a RESTful Go + PostgreSQL API paired with a Next.js dashboard, all runnable in Docker. Tracks expenses, income, savings, investments, debts, and a monthly budget behind cookie-based authentication.",
+    tags: ["Go", "PostgreSQL", "Next.js", "TypeScript", "Docker"],
+    github: "https://github.com/andreachico/go-expense-tracker",
+  },
 ];
 
 const Projects = () => {

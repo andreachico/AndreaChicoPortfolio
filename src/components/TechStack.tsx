@@ -23,7 +23,7 @@ const skillCategories = [
   },
   {
     title: "Design & Collaboration",
-    skills: ["Figma", "Sketch", "Miro", "Jira", "Confluence", "Agile/Scrum"],
+    skills: ["Figma", "Sketch", "Miro", "Jira", "Confluence", "OpenProject", "Agile/Scrum"],
   },
 ];
 

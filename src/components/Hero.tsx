@@ -7,12 +7,12 @@ const Hero = () => {
       <div className="max-w-5xl mx-auto">
         <div className="animate-fade-in flex flex-col-reverse md:flex-row md:items-center md:justify-between gap-12">
           <div className="flex-1">
-            <p className="text-primary font-mono text-sm font-medium mb-3">Frontend Developer</p>
+            <p className="text-primary font-mono text-sm font-medium mb-3">Web Developer</p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight mb-6">
               Andrea Chico
             </h1>
             <p className="text-text-body text-lg sm:text-xl max-w-2xl leading-relaxed mb-4">
-              I design and develop high-performance, user-friendly interfaces. I thrive on clean code, thoughtful UX, and transforming complex concepts into digital experiences that feel simple and delightful — whether it’s a real estate platform or a content-focused app.
+              I design and build full-stack web applications end to end, with a strong focus on polished, user-friendly frontends. I care about clean code, thoughtful UX, and scalable architecture — turning complex ideas into fast, delightful digital experiences, from real estate platforms to e-commerce storefronts.
             </p>
             <div className="flex items-center gap-2 text-text-muted text-sm mb-8">
               <MapPin size={14} />

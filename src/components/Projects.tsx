@@ -24,11 +24,11 @@ const projects: Project[] = [
     github: "https://github.com/andreachico/CasaFindCMS",
   },
   {
-    name: "Daily Digest Hub",
+    name: "The Candle Studio Storefront",
     description:
-      "A daily news and content digest platform for staying up to date with curated articles and updates.",
-    tags: ["TypeScript", "React", "Vite"],
-    github: "https://github.com/andreachico/daily-digest-hub",
+      "A headless storefront for a boutique soy-candle brand, with products, images, and pricing pulled live from the Shopify Storefront API and a client-side basket on top.",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Shopify", "GraphQL"],
+    github: "https://github.com/andreachico/the-candle-studio-storefront",
   },
   {
     name: "Expense Tracker",
